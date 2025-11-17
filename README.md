@@ -22,7 +22,7 @@ Taskline 是一个开源的项目进度管理应用，提供甘特图、任务/�
 推荐使用自动化脚本（需要 Bash 环境，Windows 可使用 Git Bash/WSL）：
 
 ```bash
-git clone [<repo-url>](https://github.com/yuanmu0814/taskline.git) taskline
+git clone https://github.com/yuanmu0814/taskline.git taskline
 cd taskline
 npm run setup
 ```
@@ -91,4 +91,5 @@ cd server && npm install --production && npm start
 ## 开源许可
 
 本项目基于 MIT License 发布，详见 `LICENSE`。
+
 
